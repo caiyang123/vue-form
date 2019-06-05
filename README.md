@@ -1,4 +1,5 @@
 # vue-form
+模仿element-ui写的form组件
 
 ## Project setup
 ```
